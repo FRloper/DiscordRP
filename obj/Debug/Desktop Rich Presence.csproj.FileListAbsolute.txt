@@ -1,0 +1,10 @@
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\bin\Debug\Desktop Rich Presence.exe.config
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\bin\Debug\Desktop Rich Presence.exe
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\bin\Debug\Desktop Rich Presence.pdb
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop Rich Presence.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop_Rich_Presence.Form1.resources
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop_Rich_Presence.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop Rich Presence.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop Rich Presence.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop Rich Presence.exe
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop Rich Presence.pdb

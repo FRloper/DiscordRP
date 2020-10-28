@@ -1,0 +1,10 @@
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\bin\Debug\DiscordRP.exe.config
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\bin\Debug\DiscordRP.exe
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\bin\Debug\DiscordRP.pdb
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\DiscordRP.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\Desktop_Rich_Presence.Form1.resources
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\DiscordRP.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\DiscordRP.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\DiscordRP.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\DiscordRP.exe
+C:\Users\Mustafa\source\repos\Desktop Rich Presence\Desktop Rich Presence\obj\Debug\DiscordRP.pdb
